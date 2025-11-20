@@ -1,4 +1,4 @@
-## ProductDash
+## Product Dashboard
 
 ProductDash is a full-stack dashboard builder that pairs a React + Vite client with a lightweight Express-style API. It showcases reusable dashboard widgets, a widget library, and utility hooks for building modern product analytics surfaces.
 
